@@ -1,4 +1,4 @@
-# List of Projects
+# List of Python Projects
 
 1. Marketing project to cluster customers, calculate theit customer lifetime value (CLV) 
 
