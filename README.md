@@ -1,9 +1,18 @@
 # List of Python Projects
 
-1. Marketing project to cluster customers, calculate theit customer lifetime value (CLV) 
+1. Marketing_segmentation
 
-2. Predict customers who are most likely to churn
+Marketing project for a retail store to carry out cohort analysis based on RFM value, to cluster customers using k-means, calculate customer lifetime value (CLV) 
 
-3. Predict housing prices in califormia
+2. Churn_prediction
 
-4. Identify bank customers who are most likely to respond to a marketing offer
+Project for a service provider to identify customers who are more prone to churn to be further targeted with marketing offers.
+
+3. Price_prediction
+
+Project for a real estate agency to predict housing prices in California (based on the book Hands-on ML)
+
+
+4. Banking_project
+
+Project to identify bank customers who are most likely to respond to a particulyr type of a marketing offer.
